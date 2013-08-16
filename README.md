@@ -20,7 +20,7 @@ Just drop the compiled assembly into /bin and you're set.
 ![Screenshot](readme.md.res/only-use-in-approved.png) 
 
 ##Download: Ready to use as an Umbraco Package
-You can [download](http://our.umbraco.org/projects/backoffice-extensions/value-duplicator "Download the Package") Value Duplicator as a ready to use Umbraco package and plug it into your site easily. The package installer only adds a dashboard item to the "Settings" section, so the risk of wrecking your CMS installation extremely low. 
+You can [download](http://our.umbraco.org//projects/backoffice-extensions/delete-workflow-for-umbraco-contour "Download the Package") "Delete Workflow for Umbraco Contour" as a ready to use Umbraco package and plug it into your site easily.
 
 ##Licence
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html), which allows open source as well as commercial use.
