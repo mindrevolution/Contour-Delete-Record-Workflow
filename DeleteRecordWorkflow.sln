@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoDeleteWorkflow", "AutoDeleteWorkflow.csproj", "{F3322D63-A907-457D-8827-BD9A8DE3EA50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteRecordWorkflow", "DeleteRecordWorkflow.csproj", "{F3322D63-A907-457D-8827-BD9A8DE3EA50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
